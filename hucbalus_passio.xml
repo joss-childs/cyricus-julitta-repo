@@ -1,0 +1,318 @@
+<TEI  xmlns="http://www.tei-c.org/ns/1.0"></TEI>
+	<teiHeader xml:lang="en">
+	 <fileDesc>
+	  <titleStmt>
+	   <title>Passio SS. Quirici et Julittae Martyrum</title>
+	   <title>
+			A digital edition of Passio SS. Quirici et Julittae Martyrum 
+	   </title>
+	   <author>
+		<name>Hucbald of St Amand</name>
+	   </author>
+	   <editor>
+		<name>Jacques Paul Migne</name>
+	   </editor>
+	   <respStmt><resp>digitized by</resp><name>Joss Childs</name></respStmt>
+	  </titleStmt>
+	  <publicationStmt>
+	   <publisher>Jacques Paul Migne</publisher>
+	   <distributor>https://archive.org/details/patrologiaecurs00saingoog/page/n7/mode/1up</distributor>
+	   <pubPlace>Paris</pubPlace>
+	   <date>1880</date>
+	  </publicationStmt>
+	  <seriesStmt>
+		<title>Patrologia Latina</title>
+		<idno>132</idno>
+	  </seriesStmt>
+	  <sourceDesc>
+	   <p>
+		   OCR based on digital version available on archive.org
+	   </p>
+	  </sourceDesc>
+	 </fileDesc>
+	 <encodingDesc>
+		<projectDesc>
+			<p>
+				The Cyricus and Julitta Digital Corpus seeks to make all possible texts, images, and items related to Saints Cyricus and Julitta easily accessible in one location.
+			</p> 
+		</projectDesc>
+	 </encodingDesc>
+	 <profileDesc>
+		<creation>
+			<date notBefore="870" notAfter="930"></date>
+		</creation>
+		<langUsage>
+			<language ident="la">Carolingian Latin</language>
+		</langUsage>
+		<textClass>
+			<keywords>
+				<term>Hagiography</term>
+				<term>Martyrdom</term>
+				<term>Passio</term>
+			</keywords>
+		</textClass>
+	 </profileDesc>
+	</teiHeader>
+	<text xml:lang="la">
+		<body>
+			<pb xml:id="columns 851-852/>
+			<div type="column" n="851">
+				<p>
+				Sanctorum Christi martyrum pia certamina veneratione debita recolentes, mirabilem in sanctis suis Dominum collaudemus, qui beato infanti Quirico, ab ipso nativitatis die, toto necdum evoluto trienno, ejusque sacræ genitrici Julittae, natalibus ac probis moribus generose, muneris superni gratia roborante, ætatis et sexus infirms pro ipsius nominis amore vincentibus, illis quidem gloriosa martyrum palmam contulit in cœlestibus. Nobis autem plurima confert beneficia, eisdem, ut credimus, patrocinantibus. Quapropter, sicuti quotidiana admonitione per suos præsules, sanctamque matrem Ecclesiam nos hortatur agere, dignum justumque est et nobis, in cunctis salubriter Dominum Deum nostrum in omni tempore et in omni loco laudando glorificare, atque glorificando laudare semper atque benedicere, ut implere valeamus illud Psalmiste: 
+					<cit>
+						<quote rend="italic">
+							Benedicam Dominum in omni tempore; semper laus ejus in ore meo
+						</quote>
+						<bibl>
+							Ps XXXIII, line 1
+						</bibl>
+					</cit>
+				Hoc est enim sacrificium, quod Deus pie colitur ab universis gradibus bene viventium, dum illi condigne referunt, quantum possibile est, actiones gratiarum, quod et ipse nos per beatum David admonet dicens: 
+					<cit>
+						<quote rend="italic">
+							Inimola Deo sacrificium laudis
+						</quote>
+						<bibl>Ps XLIX, line 14</bibl>
+					</cit>
+				Hoc est denique dignum pro immensis beneficiis ejus justumque nostris obsequiisipsa die tantæ æquitate rationis, salubre est etiam animabus et corporibus nostris: nam quantum nobis hoc prosit evidenter sacra prodit Scriptura. Quæ cum dixisset: 
+					<cit>
+						<quote rend="italic">
+							Immola Deo sacrificium laudis, et redde Altissimo vota tua,
+						</quote>
+						<bibl>Ps XLX, line 153/bibl>
+					</cit> 
+				statim subintulit dicens: 
+					<cit>
+						<quote rend="italic">
+							Et invoca me in die tributionis, et eruam te, et honorificabis me
+						</quote>
+						<bibl>Ps XLX, line 13</bibl>
+					</cit>
+				 Itemque alias dicit: 
+					<cit>
+						<quote rend="italic">
+							Laudans invocabo Dominum, et ab inimicis meis salvus ero
+						</quote>
+						<bibl>Ps XVII, line 4</bibl>
+					</cit>
+				Denique quia hoc devotissime ac constantiss me, et hi sancti Dei, quorum nunc memoriain celebramus, et cæteri divini martyris hoc ad implere studuerunt, laudantes et invocantes eum in sua tribulatione, eripuit eos ab instanti inimicorum suorum afflictione, et salvos fecit eos in regno suo cœlesti, in quo perennis felicitatis ab eo gloriati jure et ipsum illi honorificant laude perenni. Nos quoque in hujus nostri incolatus exsilio, inter multiplices vitæ præsentis angustias positi, laudantes invocemus Patrem totius consolationis, credentes quia et hic consolabitur nos in omni tribulatione nostra, qui sumus sperantes in ejus misericordia, et illic illius consolationis, cui nulla succedit tristitia, largietur nobis gaudia, suffragantibus horum meritis  
+				</p>
+			</div>
+			<div type="column" n="852">
+				<p>
+					sanctorum quorum nunc veneeramur solemnia, et quorum mira strictim narrare suscepimus certanina, abdicantes, imo ut foetida respuentes, stercora illa frivola quae a quodam idiota mimographo et falsiloquo de ipsis scabroso nimis stilo sunt ineptissime edita: et idcirco a fidelibus Christicolis, maximeque a beato Blasio papa jure inter multa sunt ut apocripha repudiata.
+				</p>
+				<p>
+					Nos autem admirabile cunctis tropseum Quirici, parvi infantis et magni martyris, ad honorem recolimus sancti tui nominis, Domine; qui, antequam te scire posset per ætatem corporis, 
+					<cit>
+						<quote>
+						“prevenisti eum in benedictionibus dulcedinis, et ex ore infantis et laelentis perfecisti laudem"
+						</quote>
+						<bibl>Ps XXVI, line 4</bibl>
+					</cit>
+					admirabilis nominis tui, ut per te alacri consummato martyrio, 
+					<cit>
+						<quote rend="italic">
+						lætificasti eum in gaudio cum vultu tuo 
+						</quote>
+						<bibl>Ps XX, line 7</bibl>
+					</cit>
+					Unde sicut et in omnibus benedicta sit magnificentia virtutis tuæ, quæ sio miritice antiquum vicit inimicum, per dilectum sibi invicem Quiricum, cujus suffragiis nobis, quæsumus, largiaris de ejusdem maligni hostis triumphare insidiis. Ergo ad hoc fideliter explicanda jam nunc accedamos. 
+				</p>
+				<p>
+					Sextæ, quae nunc agitur ætatis initio, quo Dominus Jesus Christus, Deus verus et homo suum consacrare dignatus est adventum, quadragesimo scilicet secundo imperii Octaviani Caesaris Augusti anno, quod quidem obtinuit per annos quinquaginta sex secundum nutum ipsius veræ Pacis tunc in carne apparentis, postmodum per totum oceani ambitum cunctis una pace gentibus compositis pacatum rexit, atque totius orbis monarchiam possedit, eamque imperii potestatem relinquit. E quibus posteris post eum Aurelius Alexander, imperator vicesimus, transactis a nativitate Domini ad illud usque tempus plus minusve ducentis viginti sex annis exstitit. Hujus igitur temporibus, cum maxima vexatio Ecclesiis esset, præclara a militibus Christi propietate certamina martyrii gerebantur, qui pro suppliciorum patientia donabantur a Deo immortalitatis corona. In quibus et beatus pater Callistus, sacerdotum dignitate papa Romanus, a beatissimo Petro apostolorum principe ordine sextus decimus, dum fixus staret in domo Domini, perseverando in mandatis ejus el in sancta charitate, et pio ovili Dominico velut aries electus, ac dux totius gregis, subito jussu ipsius Alexandri rapitur, carceri mancipatur, fame diuturna cruciatur, fustibus quotidie cæditur, ad ultimum per fenestram domus præcipitatur, et ligato ad collum ejus saxo
+				</p>
+			</div>
+			<pb xml:id="columns 853-854"/>
+			<div type="column" n="853">
+				<p>
+					in puteum denergitur, in cumque desuper rudera tumulatur. Atque ita a Deo corona martyrii decoratur. 
+				</p>
+				<p>
+					Hujus successor sanctus fuit Urbanus, ejusdem sauete Romance sedis episcopus, qui doctrina salutari multos ad martyrium provocans calicem quem aliis propinavit ipse quoque potavit. 
+				</p>
+				<p>
+					Ea igitur facta persecutione, sicut diximus, Christianorum sub Alexandro imperatore cum sæva supra modum exardeceret undique secus eos in-sectandi intentio, orientalium quoque provinciarum fines apprehendit. In quarum partibus praeses Alexander præerat, qui sicut nomine sic imperatori suo erat par ferocitate. Hic inter innumeros, quos variis cruciatibus et excogitatis affecerat pœnis, Julittam matronam nobileu in lege Domini meditantem die ac nocte, fama honi odoris celebrem, missis officialibus suis jussit præsentari tribunalibus. Erat autem Julitta serviens Domino in timore casto, que filium alebat parvulum Quiricum: cui cum lacte carnis disciplinam tradidit divine legis. Inter charos denique amplexus et maternæ pietatis oscula, quo verum parentem agnosceret, coleret atque diligeret, dum lacte dulci ex ejus alerctur aberibus, ab ipsius ore pro tempore puræ fidei imbuebatur dogmatibus. Insurgentibus igitur, adversus cam persecutoribus pro sua parvulique salute ad Dominum clamabat. Ante conspectum denique præsentata præsidiis, et ab eo requisita cujus esset provincie vel civitatis, aut que proprii ei esset cognitio nominis, respondit: De Isauria quidem provincia, et de primoribus civitatis Hyboniarum progenita, ad Siliciæ tuas devitans persecutionis demigravi loca; Tarsoque sum immorata. Et cum sim vere Christiana, est mihi nomen Julitta. Cui præses: Hortor, inquit, te: tu ibi consule; imperatoris jussa pertice, atque debita diis nostris offer libamnina. Beata Julitta respondit: Ego immundis non sacrifico dæmoniis, quia unius vivi et veri Dei vera suni cultrix. Ait preses: Sacrifica diis antequam ad tormenta ducaris. Et illa: Nec diis tuis sacriticabo vanis, nec tormenta pavesco. 
+				</p>
+				<p>
+					Interim, dum hi inter eos sermones feruntur, alma genitrix Quirici non modico angebatur moerore animi quod ipsa, posita in præcinctu belli pro confessione fidei, sui esset destituta salatio parvuli. Ad ejus tamen suggestionem jubente præside, et matre eum veluti prodente, perquisitus tenellus infans Quiricus et a militibus præsidis repertus, ante ipsum perductus est. Primo quidem blandimentis lepibus, ut infans, demulcetur; deinde minis exasperatur. Ille vero blandientem æque ut minantem parvipendens, mente majore et disertissimo sermone Christianum se esse constanter est professus, et a professione se ullo modo divelli non posse firmissime protestatur. Rex æternus, Deus noster qui apparens in carne ad bellandum fortem armatum 
+					<cit>
+						<bibl rend="italic">
+							(Luke XI)
+						</bibl>
+					</cit>
+					, mundumque in malo positum 
+					<cit>
+						<bibl rend="italic">
+							(I John V)
+						</bibl>
+					</cit>
+					, suae se majestatis præcinxit virtute 
+					<cit>
+						<bibl rend="italic">
+							(Ps XVII)
+						</bibl>
+					</cit>
+					, quique firmavit orbem terre 
+					<cit>
+						<bibl rend="italic">
+							(Ps XCII)
+						</bibl>
+					</cit>
+					 san-
+				</p>
+			</div>
+			<div type="column" n="854">
+				<p>
+					ctam videlicet Ecclesiam, toto ore terrarum diffusam, ne a suae moveatur fidei stabilitate, neve prævaleant adversus eam inferi porte
+					<cit>
+						<bibl rend="italic">
+							(Matt XVI)
+						</bibl>
+					</cit>
+					, ipse per Spiritum sanctum firmam dedit constantiam virtutis suae in dilecti sibi infantis Quirici corde, et sermonis facundiam in ejus posuit ore, “qui aperuit ora mutorum et linguas infantium facit disertas
+					<cit>
+						<bibl rend="italic">
+							(Wis X)
+						</bibl>
+					</cit>	
+					. Unde dum ante præsidem staret secundum tempus elinguis infantulus, non ille, sed in eo et per eum loquebatur Spiritus sanctus, cujus adipe et pinguedine replebatur anima et cor ejus. Dixit autem oi Alexander: Volo mihi ut veraciter pandas quis hujus sanctæ doctrina exstiterit magister, simulque ab hac desistas pertinacia, quam celeriter, ne pro deorum et imperatorts contemptu poenis acriter afficiaris. Ad hæc infans: Tuam, ait, o præses, miror insipientiam; qui in me cernens tantillam ætatem, nedum transacto trium annorum curriculo discenda etiam scientia minus idoneum percunctaris quis me docuerit divinam sapientiam. 
+				</p>
+				<p>
+					Auditis præses hujusmodi sermonibus correptus est furore, ac jussit infantem coedi vehementissime. Ille vero, dum cæderetur, erectis ad cœlum oculis, et parvis manibus passis veluti athleta fortis benedicit Dominum in excelsis: Gratias tibi ago, Domine Deus, te benedicit anima mea et omnia interiora mea. Tibi laus, virtutum Domine, quia virtutem perficis in mea infirmitate  
+					<cit>
+						<bibl rend="italic">
+							(I Cor XII)
+						</bibl>
+					</cit>	
+					. Tunc vero veluti insultans carnificibus clara voce pro viribus insonabat frequentius: Utique Christianus sum, et quoties emiserat hanc vocem piæ professionis, toties ei reparabantur novæ corporis vires, ita ut et præses et cuncti qui aderant tantum imbecillis mirarentur ætatis tolerantiam. Deus quippe justitiae qui illum in primis annis infantiæ sua gratia justificavit in tribulatione ad se clamantem inisericorditer exaudivit, et in conspectu omnium magnifice mirificavit. Gloriosa vero mater in ejusmodi agone eum positum cernens, toto corde exsultans, in Dominum, extensisque in cœlum manibus, voce exultationis et confessionis glorificabat Dominum, et ut in perseverantia persisteret fidei suum hortabatur Filium. Verebatur siquidem ne forte cederet flagellis præ teneritudine corporis. Sed cum pene jam resolverentur et conciderent cædentium manus ipse ab inhabitante in se Dei Spiritu, firmum gerens animum instaurabatur recentius ad sufferendum. 
+				</p>
+				<p>
+					Iterum præses jussit sibi matrem cum filio presentari. Et cum eos nullo modo revocare a proposito veræ fidei posset, fecit eos diversis pœnarum modis torqueri, ac ita demum horribilibus carceribus mancipari, sancti vero Dei martyres arctissimo reclusi ergastulo his verbis læti psallebant Deo: 
+				</p>
+				<p>
+					<cit>
+						<quote>
+							“Fae nobiscum, Domine, signum in bonum ut videant qui oderunt nos et confundantur, quoniam tu, Domine, adjuvisti nos, et consolatus es nos"
+						</quote>
+						<bibl rend="italic">
+							(Ps LXXXV).
+						</bibl>
+					</cit>	
+					 Erant autem persistentes in orationibus et laudantes Deum, potulantesque se ejus potentia virtutis eripi a laqueis malignitate 
+				</p>
+			</div>
+			<pb xml:id="column 855-856"/>
+			<div type="column" n="855">
+				<p>
+					diaboli et a tyrannide ipsius satellitis Alexandri. Sed ipsi intercapedinem quam ad hoc solum modo sortiuntur, ut eis multiplicium poenarum acerbitas pararetur, nequaquam sibi proximis infructuosam fore patiuntur pœnam. Namque fortitudine animi et constantia fidei et patientia tolerandi infirmiores quosque provocabant ad imitationem sui. In eadem siquidem custodia habebantur in vinculis detenti circiter quadringinti quadraginta quatuor viri, quos hortabantur hi sancti Dei converti ad fidem Christi, attestantes non esse aliud nomen sub cœlo datum homini, in quo possit quis salvus fierit (Act. Iv)
+					<cit>
+						<bibl rend="italic">
+							(Acts IV)
+						</bibl>
+					</cit>
+					. Cumque et verbis et exemplis hæc probarent vera esse, gratia illius operante 
+					<cit>
+						<quote rend="italic">
+							qui vult omnes homines salvos fieri et ad agnitionem veritatis venire
+						</quote>
+						<bibl rend=`>
+							(I Tim II), 
+						</bibl>
+					</cit>	
+					 illi, abrenuntiantes omnibus operibus et pompis Satanæ, confessi sunt se in unum verum Deum Patrem omnipotentem, et in Jesum Christum Filium ejus unicum Dominum, et in Spiritum sanctum credere; et hæc tria non tres Deos sed unum esse, qui solus potens est fideles suos ex omni tribulatione eripere, et salvum in regnum suum cœleste facere. In hujus ergo soliditate confessionis magis fundati habiles facti sunt in regno Dei. 
+				</p>
+				<p>
+					Postquam vero comperit Alexander quod hæc turba neophita piæ matris Julittæ filiique ejus Quirici industria ad tyronatum Christi militiae esset ascripta, nimia pervasus furoris vesania, omnem illam laudabilem phalanga ad sua præcepit produei tribunalia. Ubi dum starent, absque animi mutatione se nihil aliud quam Christianos consona voce esse fatentur. Tunc præses lata sententia jubet eos quantocius plecti capitali pœna. At illi mente alacri signantes se signo Christi certatim suas protendebant cervices percussori, sicque sæculi hujus ærumnis adempti vitam per eum et cum eo et in eo percipientes æternamn: pro cujus amore non sunt cunctati mortem subire temporalem.
+				</p>
+				<p>
+					Peracta igitur tam felicis commutatione mercimonii, isti sancti negotiatores Dei quadringenti quadraginta quatuor viri obierunt pridie Nonas Junias, similes homini negotiatori quæreuti bonas margaritas. Invenientes enim unam pretiosam margaritam dederunt non solum omnia sua, sed et seipsos et comparaverunt eam: quam etiam jure nunc possidentes hæreditario, ejusque pulchritudinem mundi cordi conspicientes oculo gaudio ob eam gaudent pleno atque perfecto. Effuso autem sanguine sanctorum Christi martyrum cruentus jussit præses pretiosa membra eorum concidi, et ossa ac viscera dispergi ut non esset qui sepeliret, impleta Psalmista sententia: Posuerunt morticina servorum tuorum escas volatilibus cœli carnes sanctorum tuorum bestiis terræ. 
+					<cit>
+						<quote rend="italic">
+							Effuderunt sanguinem ipsorum tanquam aquam in circuitu Jerusalem, et non erat qui sepeliret 
+						</quote>
+						<bibl>
+							(Ps LXXVIII), 
+						</bibl>
+					</cit>
+				</p>
+				<p>
+					His igitur martyribus consummatis, statim Alexander præses, ut leo frendens jubet novorum
+				</p>
+			</div>
+			<div type="column" n="856">
+				<p>
+					arma suppliciprum sibi exhiberi, quae anea Julittae certatrici ejusque tyronculo jusserat præparari, et ipsis singula applicari. Gestiebat denique singulis membris specialia inferre tormenta. At vero illi posteaquam frequenter passionibus suis et cruciatibus glorificaverunt Deum, dum de vinculis ad tribunalia et a tribunali revocarentur ad vincula. Inter horrifica et exquisitissima tormentorum genera vicissim sibi succedentia, cum pretiosa Christi martyrum membra variis distenderentur cruciatibus, consolatione semper cœlesti a cunctis eruebantur tribulationibus, quoniam, ut ait Psalmista: “Oculi Domini super justos et aures ejus in preces eorum 
+						<cit>
+							<bibl>
+								(Ps XXXIII)
+							</bibl>
+						</cit>
+					.” Itemque : “Clamaverunt justi, et Dominus exaudivit eos, et ex omnibus tribulationibus eorum liberavit eos 
+						<cit>
+							<bibl>
+								(Ps XXXIII)
+							</bibl>
+						</cit>
+					.” Perpendens ego Tyrannus sanctos Dei in tolerando alacres, in certando insuperabiles, tulit sententiam: Capita illorum avelli a cervicibus, Quo factum est ut postquam tot agones martyrii desudaverunt, felices eorum animæ nexibus solutae corporeis candidatis sanctorum martyrum sociatæ sunt choris, recipientes a magistro remuneratore suo Jesu benigno singulas immortalitatis suæ stolas, et requiescentes sub altari Dei aureo, atque post velamentum interius positum offerunt ei thimiamata laudis, et quia in primori tabernaculo obtulerunt illi, non hircorum aut vitulorum sanguinem, sed corpora sua, hostiam viventem, sanctam, Deo placentem, nunc gratificant gratissimam jubilationis hostiam magnae devotionis ac desiderii sui præstolantes diem, quo binis gaudeant stolis, dum corruptibile hoc induerit incorruptibilitatem, mortale hoc immortalitatem 
+						<cit>
+							<bibl>
+								(I Cor XV) 
+							</bibl>
+						</cit>
+					et “in terra sua duplicia possideant,” juxta propheticam Isaiæ pollicitationem 
+						<cit>
+							<bibl rend="italic">
+								(cap. LII) 
+							</bibl>
+						</cit>
+					. Æternæ ergo claritatis amicti stolis palmasque victoriæ, eo quod diabolum et sæculum in Christo vicerunt, tenentes in manibus suis, canticum, non officio oris, sed summæ dulcedine charitatis dicentes: Alleluia. Laus et gloria et virtus Deo nostro est, quia vera et justa judicia ejus sunt (Apoc. XIIX). Et iterum iterumque frequentatur: <emph rend="italic">Amen</emph>. 
+				</p>
+				<p>
+					Hæc tua, Domine virtutum, præclara gratiarum præmia, et hæc jucunda gaudiorum munera considerans, Psalmista tibi psalllit mente devota: 
+					<cit>
+						<quote rend="italic">
+							Beati qui habitant in domo tua, Domine: in saecula sæculorum laudabunt te 
+						</quote>
+						<bibl>
+							(Ps LXXXIII). 
+						</bibl>
+					</cit>
+					Hanc cunctis felicibus desiderabilem domum tuam, Domine, cœlestem dilectus tuus Quiricus non suis viribus fidens, sed in multitudine misericordiæ introivit. Et quia, tua largiente gratia innocens exstitit, et sine macula quia nescivit malum, nee dolum egit in lingua sua, ab ea non movebitur in sæcula, sed ibi in æternum exsultans, ubi dies est sine nocte, gaudium sine moerore, laus sine defectu, gloriatur cum eis qui diligunt nomen tuum. 
+				</p>
+				<p>
+					Nos vero in hac convalle lacrymarum inter varias tentationes positi, auxilium, Domine, petimus a te eos superandi, ut qui dedisti nobis legem justitiæ, 
+				</p>
+			</div>
+			<pb xml:id="column 857-858"/>
+			<div type="column" n="857">
+				<p>
+					des benedictionem tuæ gratiæ, quatenus gradientes felici ascensu de virtute in virtutem pervenire valeamus horum interventu sanctorum, ut te videre atque cum eis laudare mereamurin Sion colesti. Sane interim dum in hoc corruptibili moramur corpore, et peregrinamur a te, meditandum nobis est in via quid agendum constet in patria. Sed et pro posse nobis hic partim agendum est quod illic semper perficiendum erit, ut te benedicamus omni tempore, semper laus tua sit in ore nostro 
+						<cit>
+							<bibl rend="italic">
+								(Ps XIII) 
+							</bibl>
+						</cit>
+					, quæ licet non sit speciosa in ore peccatorum (Eccli. xv), est tamen vere pulchra in Ecclesia sanctorum, quæ tibi semper canticum novum, ubi sanctus infans Quiricus et ejus mater pia Julitta sanctorum martyrum juncti choro te laudantes lætantur in aeternum. Quorum nune gloriosa recolentes solemnia, et quæ illis tua contulit gratia prædicantes magnalia, te benedicimus, te glorificamus, o benedicta et gloriosa Trinitas, unus Deus! O quam magnus es, Domine, et laudabilis valde, faciens prodigia in cœlo et in terra! Quam mirabilis es in sanctis tuis, qui sancto infanti Quirico necdum trium annorum ætatem implenti tantam virtutem dedisti et fortitudinem, ut per te naturaliter excedens legem a te singulis attributam, hic tantillæ ætatis infantulus et animi sapientia et linguæ facundia, et in sufferenda tormentorum tolerantia tam fortivigeret constantia et usque ad finem pro fide et amore tui nominis perseverantia! Sit nomen tuum, Deus, benedictum in sæcula!
+				</p>
+				<p>
+					Vos quoque sancti et humiles corde cuncti testes Christi fideles usque ad vestri sanguinis effusionem, nobiscum benedicite Dominum, qui innocentis Quirici collegio martyrum laudabilem decoravit numerum. Supplices etiam exposcimus ut ipse vester concivis parvus ætate Quiricus magnus et martyrio inclytus, cui mirificum divinæ gratiæ collatum est munus, interveniat pro nobis omnibus apud suum Glorificatorem in cœlestibus qui
+				</p>
+			</div>
+			<div type="column" n="858">
+				<p>
+					est super omnia Deus in saecula saeculorum, cujus gratia cooperante compleverunt hi sancti felix martyrium certaminis, sexto decimo Kal. Jul., tempore Alexandri imperatoris, qui cœpit anno Domini ducentesimo vigesimo quarto, imperavitque annis tredecim. 
+				</p>
+				<p>
+					Expleta igitur, prout nobis datum est nosse fideli et competenti relatione admirandæ passionis tuæ, o gratiose Christi martyr, Quirice, hujus nostri licet exigui laboris magne quo possimus mercedis vicem rependere, atque cum Julitta nobili genitrice et candidata omnium sanctorum martyrum esse societate, pro nobis apud pium Dominum intercede, ut nos semper et suæ gratiæ et vestræ faciat esse participes gloriæ, cui est cum æterno Patre Deo sanctoque Spiritu honor, virtus et imperium per infinita sæcula sæculorum. 
+				</p>
+				<p>
+					Quoniam vero sancti Quirici et Julitta martyris ejus veneranda passio, diverso quidem relatu, sed vero et pari martyrio pene constat esse nota populo Christiano, de insuperabili miraculorum suorum profunditate, quibus in sæculo, disponente Deo, claruerunt, veluti quemdam rivulum deducens pauca libare curavi, et ad honorem Ecclesiæ sacris paginis indagare studui.
+				</p>
+				<p>
+					Annorum igitur multorum excurso tempore post perceptam martyrii coronam sanctus Amator Autissiodorensis episcopus, cum clarissimo viro Savino comite fines Antiochiæ peragrans, sacratissima corpora illorum Christi gratia reperit. Quæ cum magnæ venerationis cultura dicens in partes Galliarum attulit, et Autrice urbi delata, solo tantum pueri brachio sancti Savini precibus concesso, in domo sua quia idem præsul meritorum gloria pollens a fidelibus venerabatur, iterumque honorifice tumulavit. Hunc ergo incomparabilem thesaurum ideo civitas illa promeruit sibi a Deo dari, multorum sanctorum titulis exornata, ut salus corporum et animarum idem populo suo proveniret. 
+				</p>
+			</div>
+		</body>
+	</text>
+</TEI>
